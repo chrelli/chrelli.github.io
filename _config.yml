@@ -14,7 +14,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   name                   : "C. L. Ebbesen" # appears in the footer and atom feed
 
-comments                 : true # set it to false to disable comments
+comments                 : false # set it to false to disable comments
 disqus:
   shortname              : # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
