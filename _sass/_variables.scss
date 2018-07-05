@@ -32,7 +32,9 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-$green                      : mix(#000, #50dd8e, 15%);
+/* $green                      : mix(#000, #50dd8e, 15%); */
+/* Changed color by christian  19ae9b or 189e8d or  189e7d*/
+$green                      : #189e8a;
 $theme-color                : $green;
 $gray                       : #7a8288 !default;
 

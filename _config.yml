@@ -5,7 +5,7 @@ title                    : "Christian L. Ebbesen, PhD"
 title_separator          : "-"
 description              : "Neurobiologist."
 favicon                  : "/assets/images/brain_kopi.png"
-avatar                   : "/assets/images/Christian.png"
+avatar                   : "/assets/raw/christian_round_1.png"
 url                      : "https://chrelli.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
