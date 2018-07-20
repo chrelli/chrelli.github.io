@@ -16,12 +16,8 @@ Kramdown block styling looks like this:
 
 <hr class="hr-text" data-content="Journal articles">
 
-<!---
-**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (2018) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex* **Journal of Neuroscience** (in press)
-{: style="font-size: 90%;"}
---->
 
-[**Ebbesen CL** & Brecht M. (2017) *Motor cortex - to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
+[**Ebbesen CL** & Brecht M. (2017) *Motor cortex – to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
 {: style="font-size: 90%;"}
 
 [**Ebbesen CL**, Doron G, Lenschow C & Brecht M. (2017) *Vibrissa motor cortex activity suppresses contralateral whisking behavior.* **Nature Neuroscience**. 20(1):82-89. doi: 10.1038/nn.4437. PMID: 27798633](http://dx.doi.org/10.1038/nn.4437)
