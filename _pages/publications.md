@@ -12,10 +12,14 @@ permalink: /publications/
 Kramdown block styling looks like this:
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
+
+$green: #189e8a, could set up a scss link, just hard-coded for now
 --->
 
 <hr class="hr-text" data-content="Journal articles">
 
+**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (in press) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex.* Accepted for publication, **Journal of Neuroscience**
+{: style="font-size: 90%; color: #189e8a;"}
 
 [**Ebbesen CL** & Brecht M. (2017) *Motor cortex – to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
 {: style="font-size: 90%;"}
