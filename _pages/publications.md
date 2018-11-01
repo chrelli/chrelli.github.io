@@ -14,12 +14,17 @@ Kramdown block styling looks like this:
 
 
 $green: #189e8a, could set up a scss link, just hard-coded for now
+
+Add this below an in-press: {: style="font-size: 90%; color: #189e8a;"}
 --->
 
 <hr class="hr-text" data-content="Journal articles">
 
-**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (in press) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex.* **Journal of Neuroscience**
-{: style="font-size: 90%; color: #189e8a;"}
+[**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (2018) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex.* **Journal of Neuroscience** 38(44):9402-13. doi: 10.1523/JNEUROSCI.1671-18.2018](http://doi.org/10.1523/JNEUROSCI.1671-18.2018)
+{: style="font-size: 90%;"}
+
+&uarr; Invited review, based on our [Mini-Symposium](https://abstractsonline.com/pp8/#!/4649/session/30) at SfN 2018 in San Diego.
+{: style="font-size: 90%;"}
 
 [**Ebbesen CL** & Brecht M. (2017) *Motor cortex – to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
 {: style="font-size: 90%;"}
@@ -36,7 +41,7 @@ $green: #189e8a, could set up a scss link, just hard-coded for now
 [Tang(\*) Q, Burgalossi(\*) A, **Ebbesen(\*) CL**, Sanguinetti-Scheck(\*) JI, Schmidt H, Tukker JJ, Naumann R, Ray S, Preston-Ferrer P, Schmitz D & Brecht M. (2016) *Functional Architecture of the Rat Parasubiculum.* **Journal of Neuroscience**. 36(7):2289-301. doi: 10.1523/JNEUROSCI.3749-15.2016. PMID: 26888938](http://dx.doi.org/10.1523/JNEUROSCI.3749-15.2016)
 {: style="font-size: 90%;"}
 
-&uarr; *”Featured Article”*, previewed by: [Esch, T. (2016) *This Week in The Journal: Anatomy and Physiology of Parasubiculum.* **Journal of Neuroscience**. 36(7):i-i.](http://www.jneurosci.org/content/36/7/i)
+&uarr; ”Featured Article”, previewed by: [Esch, T. (2016) *This Week in The Journal: Anatomy and Physiology of Parasubiculum.* **Journal of Neuroscience**. 36(7):i-i.](http://www.jneurosci.org/content/36/7/i)
 {: style="font-size: 90%;"}
 
 [Reifenstein ET, **Ebbesen CL**, Tang Q, Brecht M, Schreiber S & Kempter R. (2016) *Cell-Type Specific Phase Precession in Layer II of the Medial Entorhinal Cortex.* **Journal of Neuroscience**. 36(7):2283-8. doi: 10.1523/JNEUROSCI.2986-15.2016. PMID: 26888937](http://dx.doi.org/10.1523/JNEUROSCI.2986-15.2016)
