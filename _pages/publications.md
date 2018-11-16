@@ -23,7 +23,7 @@ Add this below an in-press: {: style="font-size: 90%; color: #189e8a;"}
 [**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (2018) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex.* **Journal of Neuroscience** 38(44):9402-13. doi: 10.1523/JNEUROSCI.1671-18.2018](http://doi.org/10.1523/JNEUROSCI.1671-18.2018)
 {: style="font-size: 90%;"}
 
-&uarr; Invited review, based on our [Mini-Symposium](https://abstractsonline.com/pp8/#!/4649/session/30) at SfN 2018 in San Diego.
+&uarr; Invited review based a [Mini-Symposium](https://abstractsonline.com/pp8/#!/4649/session/30), which I organized at SfN 2018 in San Diego.
 {: style="font-size: 90%;"}
 
 [**Ebbesen CL** & Brecht M. (2017) *Motor cortex – to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
