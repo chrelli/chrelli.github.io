@@ -16,41 +16,46 @@ Kramdown block styling looks like this:
 $green: #189e8a, could set up a scss link, just hard-coded for now
 
 Add this below an in-press: {: style="font-size: 90%; color: #189e8a;"}
+bioRχiv
 --->
+<hr class="hr-text" data-content="Preprints">
+
+[**Ebbesen CL**, Bobrov E, Rao RP & Brecht M (2019) *Subject sex and partner sex modulate social touch responses across multiple cortical areas.* **bioRxiv** 545434. doi: 10.1101/545434.](https://doi.org/10.1101/545434)
+{: style="font-size: 90%;"}
 
 <hr class="hr-text" data-content="Journal articles">
 
-[**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (2018) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex.* **Journal of Neuroscience** 38(44):9402-13. doi: 10.1523/JNEUROSCI.1671-18.2018](http://doi.org/10.1523/JNEUROSCI.1671-18.2018)
+[**Ebbesen CL**, Insanally MN, Kopec CD, Murakami M, Saiki A & Erlich JC (2018) *More Than Just a "Motor": Recent Surprises From the Frontal Cortex.* **Journal of Neuroscience** 38(44):9402-13. doi: 10.1523/JNEUROSCI.1671-18.2018. PMID: 30381432](http://doi.org/10.1523/JNEUROSCI.1671-18.2018)
 {: style="font-size: 90%;"}
 
-&uarr; Invited review based a [Mini-Symposium](https://abstractsonline.com/pp8/#!/4649/session/30), which I organized at SfN 2018 in San Diego.
+&uarr; Invited review, based on a [Mini-Symposium](https://abstractsonline.com/pp8/#!/4649/session/30) ([intro slides](/assets/docs/minisymp_slides.pdf)) that I organized and chaired at SfN 2018 in San Diego.
 {: style="font-size: 90%;"}
 
-[**Ebbesen CL** & Brecht M. (2017) *Motor cortex – to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
+[**Ebbesen CL** & Brecht M (2017) *Motor cortex – to act or not to act?* **Nature Reviews Neuroscience**. 18(11):694-705. doi: 10.1038/nrn.2017.119. PMID: 29042690](http://dx.doi.org/10.1038/nrn.2017.119)
 {: style="font-size: 90%;"}
 
-[**Ebbesen CL**, Doron G, Lenschow C & Brecht M. (2017) *Vibrissa motor cortex activity suppresses contralateral whisking behavior.* **Nature Neuroscience**. 20(1):82-89. doi: 10.1038/nn.4437. PMID: 27798633](http://dx.doi.org/10.1038/nn.4437)
+[**Ebbesen CL**, Doron G, Lenschow C & Brecht M (2017) *Vibrissa motor cortex activity suppresses contralateral whisking behavior.* **Nature Neuroscience**. 20(1):82-89. doi: 10.1038/nn.4437. PMID: 27798633](http://dx.doi.org/10.1038/nn.4437)
 {: style="font-size: 90%;"}
 
 &uarr; Previewed by: [Kim J & Hires A (2017) *Brake and gas pedals in motor cortex* **Nature Neuroscience**. 20(1):4-6. doi: 10.1038/nn.4461. PMID: 28025981](http://dx.doi.org/10.1038/nn.4461)
 {: style="font-size: 90%;"}
 
-[**Ebbesen CL**, Reifenstein ET, Tang Q, Burgalossi A, Ray S, Schreiber S, Kempter R & Brecht M. (2016) *Cell Type-Specific Differences in Spike Timing and Spike Shape in the Rat Parasubiculum and Superficial Medial Entorhinal Cortex.* **Cell Reports**. 16(4):1005-1015. doi: 10.1016/j.celrep.2016.06.057. PMID: 27425616](http://dx.doi.org/10.1016/j.celrep.2016.06.057)
+[**Ebbesen CL**, Reifenstein ET, Tang Q, Burgalossi A, Ray S, Schreiber S, Kempter R & Brecht M (2016) *Cell Type-Specific Differences in Spike Timing and Spike Shape in the Rat Parasubiculum and Superficial Medial Entorhinal Cortex.* **Cell Reports**. 16(4):1005-1015. doi: 10.1016/j.celrep.2016.06.057. PMID: 27425616](http://dx.doi.org/10.1016/j.celrep.2016.06.057)
 {: style="font-size: 90%;"}
 
-[Tang(\*) Q, Burgalossi(\*) A, **Ebbesen(\*) CL**, Sanguinetti-Scheck(\*) JI, Schmidt H, Tukker JJ, Naumann R, Ray S, Preston-Ferrer P, Schmitz D & Brecht M. (2016) *Functional Architecture of the Rat Parasubiculum.* **Journal of Neuroscience**. 36(7):2289-301. doi: 10.1523/JNEUROSCI.3749-15.2016. PMID: 26888938](http://dx.doi.org/10.1523/JNEUROSCI.3749-15.2016)
+[Tang(\*) Q, Burgalossi(\*) A, **Ebbesen(\*) CL**, Sanguinetti-Scheck(\*) JI, Schmidt H, Tukker JJ, Naumann R, Ray S, Preston-Ferrer P, Schmitz D & Brecht M (2016) *Functional Architecture of the Rat Parasubiculum.* **Journal of Neuroscience**. 36(7):2289-301. doi: 10.1523/JNEUROSCI.3749-15.2016. PMID: 26888938](http://dx.doi.org/10.1523/JNEUROSCI.3749-15.2016)
 {: style="font-size: 90%;"}
 
-&uarr; ”Featured Article”, previewed by: [Esch, T. (2016) *This Week in The Journal: Anatomy and Physiology of Parasubiculum.* **Journal of Neuroscience**. 36(7):i-i.](http://www.jneurosci.org/content/36/7/i)
+&uarr; ”Featured Article”, previewed by: [Esch, T (2016) *This Week in The Journal: Anatomy and Physiology of Parasubiculum.* **Journal of Neuroscience**. 36(7):i-i.](http://www.jneurosci.org/content/36/7/i)
 {: style="font-size: 90%;"}
 
-[Reifenstein ET, **Ebbesen CL**, Tang Q, Brecht M, Schreiber S & Kempter R. (2016) *Cell-Type Specific Phase Precession in Layer II of the Medial Entorhinal Cortex.* **Journal of Neuroscience**. 36(7):2283-8. doi: 10.1523/JNEUROSCI.2986-15.2016. PMID: 26888937](http://dx.doi.org/10.1523/JNEUROSCI.2986-15.2016)
+[Reifenstein ET, **Ebbesen CL**, Tang Q, Brecht M, Schreiber S & Kempter R (2016) *Cell-Type Specific Phase Precession in Layer II of the Medial Entorhinal Cortex.* **Journal of Neuroscience**. 36(7):2283-8. doi: 10.1523/JNEUROSCI.2986-15.2016. PMID: 26888937](http://dx.doi.org/10.1523/JNEUROSCI.2986-15.2016)
 {: style="font-size: 90%;"}
 
-[Tang Q, **Ebbesen CL**, Sanguinetti-Scheck JI, Preston-Ferrer P, Gundlfinger A, Winterer J, Beed P, Ray S, Naumann R, Schmitz D, Brecht M & Burgalossi A. (2015) *Anatomical Organization and Spatiotemporal Firing Patterns of Layer 3 Neurons in the Rat Medial Entorhinal Cortex.* **Journal of Neuroscience**. 35(36):12346-54. doi: 10.1523/JNEUROSCI.0696-15.2015. PMID: 26354904](http://dx.doi.org/10.1523/JNEUROSCI.0696-15.2015)
+[Tang Q, **Ebbesen CL**, Sanguinetti-Scheck JI, Preston-Ferrer P, Gundlfinger A, Winterer J, Beed P, Ray S, Naumann R, Schmitz D, Brecht M & Burgalossi A (2015) *Anatomical Organization and Spatiotemporal Firing Patterns of Layer 3 Neurons in the Rat Medial Entorhinal Cortex.* **Journal of Neuroscience**. 35(36):12346-54. doi: 10.1523/JNEUROSCI.0696-15.2015. PMID: 26354904](http://dx.doi.org/10.1523/JNEUROSCI.0696-15.2015)
 {: style="font-size: 90%;"}
 
-[Tang(\*) Q, Burgalossi(\*) A, **Ebbesen(\*) CL**, Ray S, Naumann R, Schmidt H, Spicher D & Brecht M. (2014) *Pyramidal and stellate cell specificity of grid and border representations in layer 2 of medial entorhinal cortex.* **Neuron**. 84(6):1191-7. doi: 10.1016/j.neuron.2014.11.009. PMID: 25482025](http://dx.doi.org/10.1016/j.neuron.2014.11.009)
+[Tang(\*) Q, Burgalossi(\*) A, **Ebbesen(\*) CL**, Ray S, Naumann R, Schmidt H, Spicher D & Brecht M (2014) *Pyramidal and stellate cell specificity of grid and border representations in layer 2 of medial entorhinal cortex.* **Neuron**. 84(6):1191-7. doi: 10.1016/j.neuron.2014.11.009. PMID: 25482025](http://dx.doi.org/10.1016/j.neuron.2014.11.009)
 {: style="font-size: 90%;"}
 
 &uarr; Previewed by: [Savelli F & Knierim JJ (2014) *Strides toward a Structure-Function Understanding of Cortical Representations of Allocentric Space.* **Neuron**. 84(6):1108-1109. doi: 10.1016/j.neuron.2014.12.013. PMID: 25521370](http://dx.doi.org/10.1016/j.neuron.2014.12.013)
