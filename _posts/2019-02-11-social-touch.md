@@ -1,5 +1,5 @@
 ---
-title: New preprint on cortical processing of social touch
+title: New preprint about cortical processing of social touch
 ---
 
 We still know very little about how socio-sexual variables are represented at the cellular level in the mammalian neocortex. Recently, I looked at a large dataset of neurons recorded during social facial touch and asked how the social context and ‘meaning’ of touch impacts the neural responses at the single cell and network level. Across multiple cortical regions, social context (partner sex) was a major determinant of single cell responses and population dynamics. In some regions, the neural response pattern also depended on the sex of the subject animal itself (another aspect of 'social context').
