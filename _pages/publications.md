@@ -20,7 +20,7 @@ bioRχiv
 --->
 <hr class="hr-text" data-content="Preprints">
 
-[**Ebbesen CL**, Bobrov E, Rao RP & Brecht M (2019) *Subject sex and partner sex modulate social touch responses across multiple cortical areas.* **bioRxiv** 545434. doi: 10.1101/545434.](https://doi.org/10.1101/545434)
+[**Ebbesen CL**, Bobrov E, Rao RP & Brecht M (2019) *Highly structured, partner-sex– and subject-sex-dependent cortical responses during social facial touch.* **bioRxiv** 545434. doi: 10.1101/545434.](https://doi.org/10.1101/545434)
 {: style="font-size: 90%;"}
 
 <hr class="hr-text" data-content="Journal articles">
