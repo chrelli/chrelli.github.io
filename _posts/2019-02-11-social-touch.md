@@ -9,7 +9,7 @@ We still know very little about how socio-sexual variables are represented at th
 Why is this information useful? Many disorders characterized by social dysfunction, such as autism, depression and anxiety disorders, have marked sex differences in prevalence and symptoms. Identifying potential differences in how male and females cortices process social stimuli and encode social context – such as during social touch – could help identify which neural processes underlie healthy social behavior, what goes wrong in disease and point the way towards new treatment options. Read more at bioRxiv:
 
 
-[Ebbesen et al. (2019) *Subject sex and partner sex modulate social touch responses across multiple cortical areas.* **bioRxiv** 545434. doi: 10.1101/545434.](https://doi.org/10.1101/545434)
+[Ebbesen et al. (2019) *Highly structured, partner-sex– and subject-sex-dependent cortical responses during social facial touch.* **bioRxiv** 545434. doi: 10.1101/545434.](https://doi.org/10.1101/545434)
 
 By the way, making the preprint look halfway decent in MS Word was a real struggle. I ended up generating a sort of biology preprint template with a bioRxiv–inspired design. I've put the template [on github](https://github.com/chrelli/bioRxiv-word-template). Feel free to download and use it.
 
