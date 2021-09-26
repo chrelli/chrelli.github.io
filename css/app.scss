@@ -95,6 +95,15 @@ h5 {
 	margin: 0px 0;
 }
 
+h7 {
+	font-weight: bold;
+	// color: #508077; //green
+}
+
+h8tab {
+	text-indent: 50px;
+}
+
 table {
 border-spacing: 0px 8px;
 }
@@ -194,3 +203,7 @@ a.hm:active {
 				max-height: 180px;
 				padding : 5px;
 			}
+
+// for bio
+.indent { text-indent: 30px; 	margin: 0px 0;
+}
